@@ -11,7 +11,7 @@
 
 - 🧠 I’m currently learning **Vue.js and Rust**
 
-- 🤝 I'm open to collaborate  with other developers in exciting ideas
+- 🤝 I'm open to collaborate with other developers on exciting ideas
 
 - 🚀 Interested in **Typescript, React and Python**
 

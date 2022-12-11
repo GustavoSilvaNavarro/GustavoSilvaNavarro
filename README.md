@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Silva 👨‍💻😁</h1>
-<h3 align="center">Passionate Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Passionate Husband and Software Engineer | Full-Stack Developer</h3>
 
-<p>My passion for coding comes from college. I was exposed to software development since I attended courses like Industrial Control and Automatic Systems, from that point I got caught by the passion of using my creativity to write lines of code that can actually solve real-life problems. Since then I've managed to build full-stack apps from ground up that you can check it out on my repo!</p>
+<p>My passion for coding comes from college. I was exposed to software development during courses like Industrial Control and Automatic Systems. From that point I developed a passion for using my creativity to write lines of code that can solve real-world problems. Since then I've managed to build full-stack apps from the ground up - check them out on my repo!</p>
 
 - 🌎 Currently based in Buenos Aires, Argentina
 
@@ -15,7 +15,7 @@
 
 - 🚀 Interested in **Typescript, React and Python**
 
-- 🏀 I love playing basketball and Tennis.
+- 🏀 I love playing basketball and tennis.
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <h2 align="left">🧰 Skills:</h2>

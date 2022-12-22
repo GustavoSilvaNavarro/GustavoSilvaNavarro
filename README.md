@@ -34,3 +34,11 @@
 <a href="https://linkedin.com/in/gustavo-silva-navarro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-silva-navarro" height="30" width="40" /></a>
 <a href="https://instagram.com/iblamesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iblamesilva" height="30" width="40" /></a>
 </p>
+
+<h2 align="left">Woking in latest Projects:</h2>
+
+* [Event Planner](https://thesis-project-event-planner.vercel.app/)
+
+* [Crafters](https://vercel.com/gustavosilvaelefthe/crafters-app)
+
+* [Energy Tracker](https://energy-tracker-kohl.vercel.app/)

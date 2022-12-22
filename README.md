@@ -39,6 +39,6 @@
 
 * [Event Planner](https://thesis-project-event-planner.vercel.app/)
 
-* [Crafters](https://vercel.com/gustavosilvaelefthe/crafters-app)
+* [Crafters](https://crafters-app.vercel.app/)
 
 * [Energy Tracker](https://energy-tracker-kohl.vercel.app/)

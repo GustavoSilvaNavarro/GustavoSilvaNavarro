@@ -3,19 +3,17 @@
 
 <p>My passion for coding comes from college. I was exposed to software development during courses like Industrial Control and Automatic Systems. From that point I developed a passion for using my creativity to write lines of code that can solve real-world problems. Since then I've managed to build full-stack apps from the ground up - check them out on my repo!</p>
 
-- 🌎 Currently based in Massachusetts, USA
-
 - ✉️ You can contact me **gustavo.silva.nav@gmail.com**
 
-- 💻 I’m currently working on [Event Planner App](https://github.com/GustavoSilvaNavarro/thesis-project-eventPlanner)
+- 💻 I’m currently working on Green Energy Technology
 
-- 🧠 I’m currently learning **Vue.js and Rust**
+- 🧠 I’m currently learning **Rust**
 
 - 🤝 I'm open to collaborate with other developers on exciting ideas
 
 - 🚀 Interested in **Typescript, React and Python**
 
-- 🏀 I love playing basketball and tennis.
+- 🏀 I love personal development, playing basketball and tennis.
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <h2 align="left">🧰 Skills:</h2>

@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gustavo Silva 👨‍💻😁</h1>
+<h1 align="center">Welcome 👋, I'm Gustavo Silva 👨‍💻😁</h1>
 <h3 align="center">Passionate Software Engineer | Full-Stack Developer</h3>
 
 <p>My passion for coding comes from college. I was exposed to software development during courses like Industrial Control and Automatic Systems. From that point I developed a passion for using my creativity to write lines of code that can solve real-world problems. Since then I've managed to build full-stack apps from the ground up - check them out on my repo!</p>
 
-- 🌎 Currently based in Buenos Aires, Argentina
+- 🌎 Currently based in Massachusetts, USA
 
 - ✉️ You can contact me **gustavo.silva.nav@gmail.com**
 

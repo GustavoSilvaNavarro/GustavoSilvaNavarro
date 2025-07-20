@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   .skills-container {
     display: flex;
     flex-wrap: wrap;
@@ -20,7 +20,7 @@
   .email {
     font-style: bold;
   }
-</style>
+</style> -->
 
 <h1 align="center">I'm Gustavo Silva 👨‍💻</h1>
 <h3 align="center">Passionate Software Engineer | Full-Stack Developer</h3>
@@ -114,9 +114,13 @@ hobbies: [Personal Development, Basketball, Tennis]
 
 
 <h2 align="left">📊 Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavosilvanavarro&show_icons=true&locale=en&layout=compact" alt="gustavosilvanavarro" /></p>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavosilvanavarro&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img algin="right" src="https://github-readme-stats.vercel.app/api?username=gustavosilvanavarro&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img algin="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavosilvanavarro&theme=radical" alt="GitHub Streak" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavosilvanavarro&show_icons=true&locale=en" alt="gustavosilvanavarro" /></p>
+<br/>
 
 <div>
   <h3 align="center">Let's connect and talk 💬</h3>

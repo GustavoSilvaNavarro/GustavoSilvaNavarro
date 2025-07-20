@@ -1,27 +1,3 @@
-<!-- <style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-    justify-content: flex-start;
-  }
-
-  .align {
-    text-align: center;
-  }
-
-  .skill-icon {
-    padding: 8px;
-    border-radius: 8px;
-    background-color: #e0e0e0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .email {
-    font-style: bold;
-  }
-</style> -->
-
 <h1 align="center">I'm Gustavo Silva 👨‍💻</h1>
 <h3 align="center">Passionate Software Engineer | Full-Stack Developer</h3>
 <p align="center">✉️ Contact me <a href="mailto:gustavo.silva.nav@gmail.com?subject=Inquiry%20from%20Your%20GitHub%20Profile" class="email">gustavo.silva.nav@gmail.com</a></p>
